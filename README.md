@@ -1,7 +1,8 @@
 show-struct
 ===========
 
-Shows possible jq paths in a JSON file
+Shows possible jq paths in a JSON file. This is real useful for quickly analyzing json files for possible JQ filters. 
+This is usefull when testing 3rd party apis, or just trying to analyze a large json file for futher jq proccessing. 
 
 
 Sample usage (when in path):
